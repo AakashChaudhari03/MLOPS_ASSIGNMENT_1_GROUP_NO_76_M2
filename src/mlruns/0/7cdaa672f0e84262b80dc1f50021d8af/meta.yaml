@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/7cdaa672f0e84262b80dc1f50021d8af/artifacts
+end_time: 1722315735320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cdaa672f0e84262b80dc1f50021d8af
+run_name: gaudy-doe-731
+run_uuid: 7cdaa672f0e84262b80dc1f50021d8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315732229
+status: 3
+tags: []
+user_id: aakash

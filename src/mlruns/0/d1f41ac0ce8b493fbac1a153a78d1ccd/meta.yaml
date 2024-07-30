@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/d1f41ac0ce8b493fbac1a153a78d1ccd/artifacts
+end_time: 1722315770106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1f41ac0ce8b493fbac1a153a78d1ccd
+run_name: brawny-asp-527
+run_uuid: d1f41ac0ce8b493fbac1a153a78d1ccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315767091
+status: 3
+tags: []
+user_id: aakash

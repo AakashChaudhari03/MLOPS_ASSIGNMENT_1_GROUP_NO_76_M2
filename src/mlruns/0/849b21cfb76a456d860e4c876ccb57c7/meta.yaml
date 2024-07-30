@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/849b21cfb76a456d860e4c876ccb57c7/artifacts
+end_time: 1722315777444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 849b21cfb76a456d860e4c876ccb57c7
+run_name: upset-ray-235
+run_uuid: 849b21cfb76a456d860e4c876ccb57c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315775022
+status: 3
+tags: []
+user_id: aakash

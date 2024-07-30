@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/aa7518f7bf71437eb822a891e7903fd4/artifacts
+end_time: 1722315729401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa7518f7bf71437eb822a891e7903fd4
+run_name: hilarious-carp-775
+run_uuid: aa7518f7bf71437eb822a891e7903fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315727385
+status: 3
+tags: []
+user_id: aakash

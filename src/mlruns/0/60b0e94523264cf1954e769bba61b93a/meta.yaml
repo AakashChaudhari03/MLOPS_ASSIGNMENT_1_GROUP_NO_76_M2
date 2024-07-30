@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/60b0e94523264cf1954e769bba61b93a/artifacts
+end_time: 1722315732103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60b0e94523264cf1954e769bba61b93a
+run_name: nimble-elk-129
+run_uuid: 60b0e94523264cf1954e769bba61b93a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315729479
+status: 3
+tags: []
+user_id: aakash

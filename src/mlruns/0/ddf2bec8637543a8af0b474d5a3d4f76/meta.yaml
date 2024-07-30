@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/ddf2bec8637543a8af0b474d5a3d4f76/artifacts
+end_time: 1722315743097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddf2bec8637543a8af0b474d5a3d4f76
+run_name: monumental-squid-75
+run_uuid: ddf2bec8637543a8af0b474d5a3d4f76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315740332
+status: 3
+tags: []
+user_id: aakash

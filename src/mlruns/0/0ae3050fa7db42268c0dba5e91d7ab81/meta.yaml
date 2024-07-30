@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/0ae3050fa7db42268c0dba5e91d7ab81/artifacts
+end_time: 1722315790176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ae3050fa7db42268c0dba5e91d7ab81
+run_name: gifted-turtle-450
+run_uuid: 0ae3050fa7db42268c0dba5e91d7ab81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315787557
+status: 3
+tags: []
+user_id: aakash

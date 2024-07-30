@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/ac3fae48923641db9b5559353e1a49ed/artifacts
+end_time: 1722315780248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac3fae48923641db9b5559353e1a49ed
+run_name: resilient-shrike-692
+run_uuid: ac3fae48923641db9b5559353e1a49ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315777550
+status: 3
+tags: []
+user_id: aakash

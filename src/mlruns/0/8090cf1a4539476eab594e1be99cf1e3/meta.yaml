@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/8090cf1a4539476eab594e1be99cf1e3/artifacts
+end_time: 1722315740316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8090cf1a4539476eab594e1be99cf1e3
+run_name: brawny-mouse-422
+run_uuid: 8090cf1a4539476eab594e1be99cf1e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315738124
+status: 3
+tags: []
+user_id: aakash

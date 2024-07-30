@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/0bc358d84c434c6d964a08d6e0466daf/artifacts
+end_time: 1722315727338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bc358d84c434c6d964a08d6e0466daf
+run_name: bustling-mare-528
+run_uuid: 0bc358d84c434c6d964a08d6e0466daf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315724895
+status: 3
+tags: []
+user_id: aakash

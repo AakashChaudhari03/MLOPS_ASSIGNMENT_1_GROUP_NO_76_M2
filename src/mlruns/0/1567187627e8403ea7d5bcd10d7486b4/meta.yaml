@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/1567187627e8403ea7d5bcd10d7486b4/artifacts
+end_time: 1722315722263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1567187627e8403ea7d5bcd10d7486b4
+run_name: treasured-skunk-923
+run_uuid: 1567187627e8403ea7d5bcd10d7486b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315718822
+status: 3
+tags: []
+user_id: aakash

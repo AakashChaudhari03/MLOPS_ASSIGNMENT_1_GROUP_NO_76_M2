@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/961ff8040f08405bb4188b4f03c9afca/artifacts
+end_time: 1722315772605
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 961ff8040f08405bb4188b4f03c9afca
+run_name: puzzled-goat-720
+run_uuid: 961ff8040f08405bb4188b4f03c9afca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315770200
+status: 3
+tags: []
+user_id: aakash

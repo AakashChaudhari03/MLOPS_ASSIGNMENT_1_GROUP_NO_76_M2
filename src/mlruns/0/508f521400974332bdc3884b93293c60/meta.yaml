@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aakas/OneDrive/Documents/Mtech%20AI%20Ml/Sem3/Assignments/MLOPS/M2/src/mlruns/0/508f521400974332bdc3884b93293c60/artifacts
+end_time: 1722315724790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 508f521400974332bdc3884b93293c60
+run_name: sneaky-kite-281
+run_uuid: 508f521400974332bdc3884b93293c60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722315722326
+status: 3
+tags: []
+user_id: aakash
